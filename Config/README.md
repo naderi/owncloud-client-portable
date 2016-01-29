@@ -1,1 +1,1 @@
-# This is the data folder, which will be synced
+# This is the config folder

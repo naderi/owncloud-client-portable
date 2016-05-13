@@ -16,6 +16,7 @@ desktop.ini
 ].TemporaryItems
 ].Trashes
 ].DocumentRevisions-V100
+].Trash-*
 .fseventd
 .apdisk
 
@@ -36,3 +37,5 @@ desktop.ini
 .fuse_hidden*
 *.unison
 .nfs*
+
+My Saved Places.

@@ -1,1 +1,1 @@
-# Latest stable version: 2.3.2
+# Latest stable version: 2.4.1
